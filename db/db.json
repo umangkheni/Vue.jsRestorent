@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "name": "mohan",
+      "email": "mohan@gmail.com",
+      "password": "mohan@123",
+      "id": 2
+    },
+    {
+      "name": "manish",
+      "email": "manish@gmail.com",
+      "password": "manish@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mahohar",
+      "email": "manohar@gmail.com",
+      "password": "manohar@123",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 6
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 7
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 8
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 9
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 10
+    },
+    {
+      "name": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "ajay@123",
+      "id": 11
+    },
+    {
+      "name": "ved",
+      "email": "ved@gmail.com",
+      "password": "ved@123",
+      "id": 12
+    },
+    {
+      "name": "namish",
+      "email": "namish@test.com",
+      "password": "namish@123",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "namis",
+      "email": "namis@gmail.com",
+      "password": "namis@123",
+      "id": 15
+    },
+    {
+      "name": "manis",
+      "email": "manish@gmail.com",
+      "password": "manish@123",
+      "id": 16
+    }
+  ],
+  "restorunt": [
+    {
+      "name": "radhe",
+      "number": "6544565",
+      "address": "gujarat",
+      "id": 1
+    }
+  ]
+}
